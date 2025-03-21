@@ -1,0 +1,11 @@
+# Carpeta generada por Maven al compilar
+target/
+
+# Archivos de Maven Wrapper (opcional)
+.mvn/
+mvnw
+mvnw.cmd
+
+# Configuraciones locales de IDEs (opcional)
+.idea/
+.vscode/
